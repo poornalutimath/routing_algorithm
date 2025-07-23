@@ -31,7 +31,7 @@ It uses object-oriented programming (OOP) and demonstrates templates, inheritanc
 ## 📂 File Structure
 
 router-pathfinding/
-├── routing.cpp # Main source code
+├── routing_algorithms.cpp # Main source code
 └── README.md # Project documentation
 
 
